@@ -1,7 +1,8 @@
-### Hi , i'm I Made Hary Mahayana 👋
+### Hi , i'm Arik 👋
 
-- 🔭 I’m a Fresh Graduated from Bumigora University
-- 🌱 I’m currently learning javaScript Frontend & Backend
+- 🔭 I’m a Web Developer / Programmer
+- 🌱 I’m currently Intermediate level in Frontend & Backend (React Vue Laravel Express Django)
+- 🌱 I’m currently Intermediate level in Databases (Mysql Postgree MongoDB SqLite)
 - ⚡ Fun fact: I like to be curious about new things that I find interesting
 
 ### ⚡ Connect With Me :
